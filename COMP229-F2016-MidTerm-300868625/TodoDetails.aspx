@@ -1,4 +1,9 @@
-﻿<%@ Page Title="Todo Details" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TodoDetails.aspx.cs" Inherits="COMP229_F2016_MidTerm_300868625.TodoDetails" %>
+﻿<% @author Abhinav %>
+<% @date 19 oct, %>
+<% StudentID:300868625 %>
+<% website: TODO list %>
+
+<%@ Page Title="Todo Details" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TodoDetails.aspx.cs" Inherits="COMP229_F2016_MidTerm_300868625.TodoDetails" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
      
     <div class="container">
